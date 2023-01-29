@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/loginFormReact/static/css/main.5552c0c3.css",
+    "main.js": "/loginFormReact/static/js/main.bd1454c8.js",
+    "static/media/Image.png": "/loginFormReact/static/media/Image.efe97b94794731d69a93.png",
+    "index.html": "/loginFormReact/index.html",
+    "main.5552c0c3.css.map": "/loginFormReact/static/css/main.5552c0c3.css.map",
+    "main.bd1454c8.js.map": "/loginFormReact/static/js/main.bd1454c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5552c0c3.css",
+    "static/js/main.bd1454c8.js"
+  ]
+}
