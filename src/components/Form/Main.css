@@ -1,0 +1,11 @@
+.log{
+    display: flex;
+    width: 842px;
+    height: 583px;
+    align-items: center;
+    margin: 5em auto 0;
+
+}
+img{
+    border-radius: 10px 0 0 10px;
+}
